@@ -1,0 +1,9 @@
+dataset/
+output/
+generator/
+asset/
+
+__pycache__
+
+.idea
+.vscode
